@@ -1,0 +1,27 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#topbar{
+  background-color: green;
+  height:30px;
+}
+  #button{
+    border: none;
+    background-color: green;
+  }  
+  nav{
+    width:10%;
+    position:absolute;
+  }
+
+#body{
+  width: 80%;
+  margin-left: 10%;
+  position:absolute;
+}
+  #title{
+    text-align: center;
+    border: 1px black solid;
+  }
